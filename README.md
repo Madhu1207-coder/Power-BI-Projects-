@@ -102,11 +102,12 @@ Feel free to open issues or submit pull requests to improve the analysis or dash
 
 If you want to discuss this project or business insights, reach out:
 
-* GitHub: [yourusername](https://github.com/yourusername)
-* LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+### 📬 **Connect with Me**
 
----
+- **GitHub:** [Madhu1207-coder](https://github.com/Madhu1207-coder)  
+- **LinkedIn:** [Madhumitha B](https://www.linkedin.com/in/madhumitha-b-a545a525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Email:** [madhumithab1207@gmail.com](mailto:madhumithab1207@gmail.com)
+
 
 
 <p align="center" style="font-size: 20px;">
